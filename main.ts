@@ -27,7 +27,7 @@ bluetooth.onUartDataReceived(serial.delimiters(Delimiters.NewLine), function () 
         blink = 1
     } else if (command == "p") {
         blink = 0
-        strip.showColor(neopixel.colors(NeoPixelColors.Red))
+        strip.showColor(neopixel.colors(NeoPixelColors.Green))
     } else if (command == "a") {
         upleft = 1
     } else {
