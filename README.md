@@ -1,5 +1,5 @@
 
-> Open this page at [https://storagebits.github.io/board-explorer-makecode/](https://storagebits.github.io/board-explorer-makecode/)
+## Getting started
 
 ## Use as Extension
 
