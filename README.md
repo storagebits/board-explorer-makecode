@@ -6,6 +6,10 @@ The makecode mainly waits for commands on the UART bluetooth and then execute an
 
 In this exemple it drives a ring:bit module (https://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/)
 
+## Direct link to makecode project 
+
+https://makecode.microbit.org/_frdR5xctm0Rt
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
