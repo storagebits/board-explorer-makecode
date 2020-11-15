@@ -4,7 +4,7 @@
 This makecode is aimed to be used with board-explorer https://github.com/storagebits/board-explorer , an experimental interactive board project.
 The makecode mainly waits for commands on the UART bluetooth and then execute an action.
 
-In this exemple it drives a ring:bit module (https://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/index.htm)
+In this exemple it drives a ring:bit module (https://www.elecfreaks.com/learn-en/microbitKit/ring_bit_v2/)
 
 ## Use as Extension
 
