@@ -60,5 +60,7 @@ Released under the [MIT licence](LICENSE). The project scaffolding (Makefile, Pa
 
 #### Metadata (used by MakeCode for search and rendering)
 
+<!-- Kept at the very end on purpose: MakeCode reads these lines to list and render the extension. -->
+
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
